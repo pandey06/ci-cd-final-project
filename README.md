@@ -1,4 +1,4 @@
-# ci-cd-final-project
+# cicd-final-project
 
 This repository contains the final project for the Coursera course *CI/CD Tools and Practices*.
 
